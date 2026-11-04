@@ -1,4 +1,4 @@
-.btn {
+button {
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 17px;
@@ -6,18 +6,18 @@
   color: white;
   }
   
-  .btn-default {
+  .ex-btn {
   background-color: lightgrey;
   border: 2px solid darkgrey;
   color: black;
   }
   
-  .btn-warning {
+  .ex-btn-warning {
   background-color: crimson;
   border: 2px solid darkred;
   }
   
-  .btn-success {
+  .ex-btn-success {
   background-color: forestgreen;
   border: 2px solid green;
   }
