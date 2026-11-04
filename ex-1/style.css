@@ -1,28 +1,27 @@
-
-/* CSS สำหรับปุ่มทุกประเภท */
-.btn {
+/* Start coding here */
+button {
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 17px;
   cursor: pointer;
   color: white;
-}
-
-/* Default Button */
-.btn-default {
+  }
+  
+  /* Default Button */
+  .ex-btn {
   background-color: lightgrey;
   border: 2px solid darkgrey;
   color: black;
-}
-
-/* Warning Button */
-.btn-warning {
+  }
+  
+  /* Warning Button */
+  .ex-btn-warning {
   background-color: crimson;
   border: 2px solid darkred;
-}
-
-/* Success Button */
-.btn-success {
+  }
+  
+  /* Success Button */
+  .ex-btn-success {
   background-color: forestgreen;
   border: 2px solid green;
-}
+  }
